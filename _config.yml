@@ -106,7 +106,7 @@ author:
   location         :  Lund University
   employer         :
   email            : "seyedehnegar.khaliliaraghi@nek.lu.se"
-  uri              :
+  uri              : "https://portal.research.lu.se/en/persons/seyedehnegar-khaliliaraghi"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
   codepen          :
@@ -120,7 +120,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "negar-khalili-5668a2185" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   googlescholar    : 
   pinterest        :
   soundcloud       :
