@@ -6,8 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-{% include base_path %}
+##Job market paper
+Here is the link to my JMP
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+##Working papers
+
+##Work in progress
