@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Negar Khaliliaraghi"
-  avatar           : "/assets/bio-photo.jpg" # Path to the image
+  avatar           : "/assets/bio photo.jpg" # Path to the image
   bio              : "PhD student in Economics"
   location         : 
   employer         : 
