@@ -6,4 +6,4 @@ author_profile: true
 classes: wide
 ---
 
-Here's my contact info
+You can reach me at <a href="mailto:seyedehnegar.khaliliaraghi@nek.lu.se">seyedehnegar.khaliliaraghi@nek.lu.se</a>
