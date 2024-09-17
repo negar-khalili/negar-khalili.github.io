@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-## Teaching Assistant Experience
+
 
 ### Master's Level Courses
 - Applied Microeconometrics
