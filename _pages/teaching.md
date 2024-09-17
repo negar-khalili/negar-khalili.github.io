@@ -6,8 +6,15 @@ author_profile: true
 classes: wide
 ---
 
-{% include base_path %}
+## Teaching Experience
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Master's Level Courses
+- Applied Microeconometrics
+- Advanced Labour Economics
+- Mathematical Methods - Advanced level
+
+### Bachelor's Level Courses
+- Econometrics
+- Health Economics
+- Economic Integration
+- Public Economics

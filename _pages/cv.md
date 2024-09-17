@@ -13,8 +13,9 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
+<a href="../files/cv.pdf" class="uline">Here is the link to my CV</a>
 
+<!--
 ## Education
 ---
 **In Progress**<br>
@@ -63,3 +64,5 @@ Best Jekyll Theme, *Spring 2018*<br>
 **Summer 1900**<br>
 Primary Instructor<br>
 *Quantum Field Theory 101*
+
+-->
