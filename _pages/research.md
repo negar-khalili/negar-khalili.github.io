@@ -6,9 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-##Job market paper
+## Job market paper
 Here is the link to my JMP
 
-##Working papers
+## Working papers
 
-##Work in progress
+## Work in progress
