@@ -104,7 +104,7 @@ author:
   avatar           : "/assets/bio photo.jpg" # Path to the image
   bio              : "PhD student in Economics"
   location         : 
-  employer         : 
+  employer         : Lund University
   email            : "seyedehnegar.khaliliaraghi@nek.lu.se"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
