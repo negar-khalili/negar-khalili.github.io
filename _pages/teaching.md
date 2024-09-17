@@ -7,7 +7,6 @@ classes: wide
 ---
 
 
-
 ### Master's Level Courses
 - Applied Microeconometrics
 - Advanced Labour Economics
