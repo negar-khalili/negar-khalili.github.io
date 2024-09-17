@@ -1,4 +1,3 @@
-is the link to my CV---
 layout: cv-archive
 title: "CV"
 permalink: /cv/
