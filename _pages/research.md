@@ -12,8 +12,8 @@ Here is the link to my JMP
 
 ## Working papers
 Gender Gaps in Productivity, Wages, and Promotions: Evidence from a Random Task Allocation Policy
-With Petter Lundborg and Johan Vikström
+<small><em>With Petter Lundborg and Johan Vikström</em></small>
 
 ## Work in progress
 The Long-run Effects of Racial Diversity in Danish Kindergartens
-With Nabanita Datta Gupta
+<small><em>With Nabanita Datta Gupta</em></small>
