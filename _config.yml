@@ -280,7 +280,7 @@ collections:
     permalink: /:collection/:path/
   research:
     output: true
-    permalink: /:collection/:path/
+    permalink: /teaching/:title/
 
 
 
