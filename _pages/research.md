@@ -17,7 +17,7 @@ Gender Gaps in Productivity, Wages, and Promotions: Evidence from a Random Task 
 <button onclick="toggleAbstract('abstract2')" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
     Abstract</button>
 
-<div id="abstract2" style="display:none;">  
+<div id="abstract2" class="abstract" style="display:none;">  
     <p>
         Documenting productivity differences between female and male workers, and their impact on gender pay gaps, is challenging when female workers are assigned less productive tasks. This paper addresses this challenge by utilizing a context where high-skilled workers are quasi-randomly assigned to homogeneous tasks. The study focuses on the Swedish Employment Agency, where caseworkers were assigned job seekers based on their birth date within the month, ensuring that our performance measures are not confounded by task assignment. Our findings reveal that female caseworkers are at least as productive as their male counterparts and earn similar wages. However, significant gender gaps in promotions persist, with female caseworkers being substantially less likely to be promoted despite their equal productivity.
     </p>
