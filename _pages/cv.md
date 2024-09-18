@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <style>
-a.uline {text-decoration:underline;}
+a.uline {text-decoration:underline; font-size: 18px;} /* Increased font size */
 </style>
 
 {% include base_path %}
