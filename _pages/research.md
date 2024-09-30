@@ -10,10 +10,10 @@ classes: wide
 Housing by Chance: The Academic Impacts of Lottery-Based Access to Student Accommodation  
 [Draft coming soon] 
 
-<button onclick="toggleAbstract('abstract2')" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+<button onclick="toggleAbstract('abstract1')" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
     Abstract</button>
 
-<div id="abstract2" class="abstract" style="display:none; font-size: 18px;">  
+<div id="abstract1" class="abstract" style="display:none; font-size: 18px;">  
     <p>
         The affordability and stability of housing are key determinants of economic well-being, but their effects on the academic success of university students remain underexplored. This paper investigates the causal effect of early access to affordable student housing on academic performance using a unique lottery-based allocation system in Sweden. The findings show that early access to student housing significantly improves students' academic performance, with grades increasing by 28\% of a standard deviation. The results suggest that housing stability allows students to focus more on their studies, reducing the need for employment and long commutes.
     </p>
