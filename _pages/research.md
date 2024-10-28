@@ -22,7 +22,7 @@ Housing by Chance: The Academic Impacts of Lottery-Based Access to Student Accom
 ## Working papers
 Gender Gaps in Productivity, Wages, and Promotions: Evidence from a Random Task Allocation Policy  
 <small><em>With Petter Lundborg and Johan Vikström</em></small>  
-<a href="../files/Gender_Productivity_Gap (6).pdf" class="uline">Draft</a>
+<a href="../files/Gender_Productivity_Gap.pdf" class="uline">Draft</a>
 
 <button onclick="toggleAbstract('abstract2')" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
     Abstract</button>
