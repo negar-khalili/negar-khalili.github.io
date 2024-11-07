@@ -8,7 +8,8 @@ classes: wide
 
 ## Job market paper
 Housing by Chance: The Academic Impacts of Lottery-Based Access to Student Accommodation  
-[Draft coming soon] 
+
+<a href="../files/JMP 2024.pdf" class="uline">Draft</a>
 
 <button onclick="toggleAbstract('abstract1')" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
     Abstract</button>
