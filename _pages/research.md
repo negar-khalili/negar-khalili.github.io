@@ -35,7 +35,6 @@ Gender Gaps in Productivity, Wages, and Promotions: Evidence from a Random Task 
 
 ## Work in progress
 Playmates and Pathways: Long-run Impacts of Exposure to Immigrants in Daycares
-
 <small><em>With Nabanita Datta Gupta</em></small>
 
 <script>
