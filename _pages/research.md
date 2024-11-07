@@ -34,7 +34,7 @@ Gender Gaps in Productivity, Wages, and Promotions: Evidence from a Random Task 
 </div>
 
 ## Work in progress
-The Long-run Effects of Racial Diversity in Danish Kindergartens  
+Playmates and Pathways: Long-run Impacts of Exposure to Immigrants in Daycares
 <small><em>With Nabanita Datta Gupta</em></small>
 
 <script>
