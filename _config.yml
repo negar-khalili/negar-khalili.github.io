@@ -103,8 +103,8 @@ author:
   name             : "Negar Khaliliaraghi"
   avatar           : "/assets/bio photo.jpg" # Path to the image
   bio              : "Postdoctoral researcher"
-  location         :  Uppsala
-  employer         :  IFAU - Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
+  location         :  IFAU - Institutet för arbetsmarknads- och utbildningspolitisk utvärdering, Uppsala
+  employer         :  
   email            : "negar.khaliliaraghi@ifau.uu.se"
   uri              : "https://portal.research.lu.se/en/persons/seyedehnegar-khaliliaraghi"
   home             : # null (default), "absolute or relative url to link to author home"
