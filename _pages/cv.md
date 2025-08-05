@@ -13,7 +13,7 @@ a.uline {text-decoration:underline; font-size: 18px;} /* Increased font size */
 
 {% include base_path %}
 
-<a href="../files/CV_2025.pdf" class="uline">Here is the link to my CV. </a> Last updated: August2025
+<a href="../files/CV_2025.pdf" class="uline">Here is the link to my CV. </a> Last updated: August 2025
 
 <!--
 ## Education
