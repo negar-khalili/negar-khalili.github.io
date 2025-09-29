@@ -39,7 +39,7 @@ Playmates and Pathways: Long-run Impacts of Exposure to Immigrants in Daycares
 <button onclick="toggleAbstract('abstract2')" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
     Abstract</button>
 
-<div id="abstract2" class="abstract" style="display:none; font-size: 18px;">  
+<div id="abstract3" class="abstract" style="display:none; font-size: 18px;">  
     <p>
        Childcare centers are often the first formal environment where children interact with peers. Despite their potential importance, the long-term impacts of early exposure to peers from different backgrounds remain underexplored. Leveraging comprehensive Danish register data, this study examines how higher exposure to non-Western peers in early childhood influences the educational and crime outcomes of native Danish children at age 16. To identify causal effects, we exploit the as-if random variation in peer composition across entry-year cohorts, within childcare centers. Our findings show that higher shares of both same-sex and opposite-sex non-Western peers have negative impacts on native children’s Danish and mathematics test scores.It also reduces the likelihood of choosing an academic track among native students. Additionally, our results do not support the hypothesis that these negative effects are driven by higher exposure to peers from low socioeconomic backgrounds. These effects become large and significant when the concentration of non-Western peers exceeds 40\% within the age group. We find no evidence of an impact on criminal outcomes.
     </p>
