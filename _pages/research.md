@@ -36,7 +36,7 @@ Gender Gaps in Productivity, Wages, and Promotions: Evidence from a Random Task 
 Playmates and Pathways: Long-run Impacts of Exposure to Immigrants in Daycares          
 <small><em>With Nabanita Datta Gupta</em></small>
 
-<button onclick="toggleAbstract('abstract2')" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+<button onclick="toggleAbstract('abstract3')" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
     Abstract</button>
 
 <div id="abstract3" class="abstract" style="display:none; font-size: 18px;">  
