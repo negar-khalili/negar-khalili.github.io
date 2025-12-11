@@ -49,13 +49,13 @@ Playmates and Pathways: Long-run Impacts of Exposure to Immigrants in Daycares
 </div>
 
 ## Work in progress
-Families’ Preschool Decisions: The Role of Norms, Trust, and the Preschool Environment
+Families’ Preschool Decisions: The Role of Norms, Trust, and the Preschool Environment<br>
 <small><em>With Caroline Hall</em></small>
 
-Unemployment Insurance and Welfare Support for Low-Income Families
+Unemployment Insurance and Welfare Support for Low-Income Families<br>
 <small><em>With Lisa Laun, Jan Sauermann, and Anna Sjögren</em></small>
 
-How Educational Reforms Have Shaped Segregation in Sweden
+How Educational Reforms Have Shaped Segregation in Sweden<br>
 <small><em>With Martin Fischer and Therese Nilsson</em></small>
 
 
