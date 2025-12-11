@@ -8,7 +8,10 @@ classes: wide
 
 ## Working papers
 Housing by Chance: The Academic Impacts of Lottery-Based Access to Student Accommodation  
-<a href="../files/JMP 2024.pdf" class="uline">Draft</a>
+<a href="https://www.ifau.se/globalassets/pdf/se/2025/wp-2025-23-housing-by-chance-the-academic-impacts-of-lottery-based-access-to-student-accommodation.pdf" 
+   class="uline" target="_blank">
+    Working paper
+</a>
 
 <button onclick="toggleAbstract('abstract1')" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
     Abstract</button>
