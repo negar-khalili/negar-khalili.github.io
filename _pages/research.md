@@ -58,7 +58,8 @@ Unemployment Insurance and Welfare Support for Low-Income Families<br>
 How Educational Reforms Have Shaped Segregation in Sweden<br>
 <small><em>With Martin Fischer and Therese Nilsson</em></small>
 
-
+Firm and Worker Responses to Sweden’s Minimum Wage Reform<br>
+<small><em>With Linna Martén and Akib Khan</em></small>
 <script>
     function toggleAbstract(abstractId) {
         var abstract = document.getElementById(abstractId);
