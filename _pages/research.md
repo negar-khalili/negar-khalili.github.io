@@ -29,7 +29,7 @@ Gender Gaps in Productivity, Wages, and Promotions: Evidence from a Random Task 
    class="uline"
    target="_blank"
    rel="noopener noreferrer">
-  Draft
+  Working paper
 </a>
 
 <button onclick="toggleAbstract('abstract2')" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
